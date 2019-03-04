@@ -1,0 +1,18 @@
+[stairsplus] loaded. = [stairsplus] a été chargé.
+
+%s Stairs = Escaliers en %s
+%s Slab = Demi-dalle en %s
+%s Panel = Barre en %s
+%s Microblock = Microbloc en %s
+
+Wooden = bois
+Stone = pierre
+Cobblestone = pierre taillée
+Brick = brique
+Sandstone = grès
+Desert Stone = pierre de désert
+Glass = verre
+Tree = tronc d'arbre
+Jungle Tree = tronc d'arbre de jungle
+Mossy Cobblestone = pierre taillée mousseuse
+Steel Block = bloc de fer

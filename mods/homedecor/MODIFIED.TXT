@@ -1,0 +1,3 @@
+
+changed init.lua (see init.lua.orig for comparison) to no longer call signs_lib.lua as that would replace default signs;
+changed fences.lua to accomodate for the changes above
